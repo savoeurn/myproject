@@ -1,2 +1,0 @@
-# myproject
-just for testing
